@@ -2,7 +2,7 @@
 
 An AI-powered recipe chatbot using Retrieval-Augmented Generation (RAG) architecture to provide intelligent, data-backed recipe recommendations and cooking assistance.
 
-[![Live Demo](https://img.shields.io/badge/Demo-munchai.org-green)](https://munchai.org)
+[![Live Demo](https://img.shields.io/badge/Demo-munchai.org-green)](https://www.munchai.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Project Overview
