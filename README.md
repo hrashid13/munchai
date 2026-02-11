@@ -361,9 +361,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Hesham Rashid**
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- Portfolio: https://www.heshamrashid.org/
+- LinkedIn: https://www.linkedin.com/in/hesham-rashid/
+- Email: h.f.rashid@gmail.com
 
 Master's in AI and Business Analytics - University of South Florida
 
@@ -380,7 +380,7 @@ Master's in AI and Business Analytics - University of South Florida
 
 ## Contact
 
-For questions, collaboration opportunities, or career inquiries, please reach out via [email] or LinkedIn.
+For questions, collaboration opportunities, or career inquiries, please reach out via h.f.rashid@gmail.com or LinkedIn.
 
 ---
 
